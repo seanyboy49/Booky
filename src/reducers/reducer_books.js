@@ -3,7 +3,6 @@ export default function() {
     { title: 'Javascript: The Good Parts'},
     { title: 'Harry Potter'},
     { title: 'The Dark Tower'},
-    { title: 'Eloquent Ruby'},
-    { title: }
+    { title: 'Eloquent Ruby'}
   ]
 }
