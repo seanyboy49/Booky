@@ -8,7 +8,7 @@ class BookList extends React.Component{
       return (
         <li key={book.title} className="list-group-item"> {book.title }</li>
       );
-    });
+    }); 
   }
 
   render() {
